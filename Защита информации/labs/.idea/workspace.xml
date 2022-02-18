@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29cd761e-0358-4459-9b74-bcce187f8968" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="250Os184z7gQDB2rx7WpBG1w2SF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lab 1">
+    <configuration name="lab 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab 1/lab 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab 1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab 1.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab 1" />
+        <item itemvalue="Python.lab 1.1" />
+        <item itemvalue="Python.lab 1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29cd761e-0358-4459-9b74-bcce187f8968" name="Default Changelist" comment="" />
+      <created>1644660740041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644660740041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1054" y="47" key="#Inspections" timestamp="1644669861224">
+      <screen x="-1360" y="0" width="1360" height="738" />
+    </state>
+    <state x="-1054" y="47" key="#Inspections/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644669861224" />
+    <state x="-1226" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644673077213">
+      <screen x="-1360" y="0" width="1360" height="738" />
+    </state>
+    <state x="-1226" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673077213" />
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1644995448843">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="145" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644995448843" />
+    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1644995448843">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="145" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
+    <state width="1323" height="142" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644995448843" />
+    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1644995448843">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="145" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
+    <state width="1323" height="142" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644995448843" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1644995448843">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="145" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644995448843" />
+    <state width="1340" height="197" key="GridCell.Tab.1.bottom" timestamp="1644675590695">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.1.bottom/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673329423" />
+    <state width="1340" height="197" key="GridCell.Tab.1.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644675590695" />
+    <state width="1340" height="197" key="GridCell.Tab.1.center" timestamp="1644675590695">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.1.center/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673329423" />
+    <state width="1340" height="197" key="GridCell.Tab.1.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644675590695" />
+    <state width="1340" height="197" key="GridCell.Tab.1.left" timestamp="1644675590695">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.1.left/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673329423" />
+    <state width="1340" height="197" key="GridCell.Tab.1.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644675590695" />
+    <state width="1340" height="197" key="GridCell.Tab.1.right" timestamp="1644675590695">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.1.right/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673329423" />
+    <state width="1340" height="197" key="GridCell.Tab.1.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1644675590695" />
+    <state x="-1157" y="15" key="SettingsEditor" timestamp="1644673047693">
+      <screen x="-1360" y="0" width="1360" height="738" />
+    </state>
+    <state x="-1157" y="15" key="SettingsEditor/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673047693" />
+    <state x="-785" y="104" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1644670416044">
+      <screen x="-1360" y="0" width="1360" height="738" />
+    </state>
+    <state x="-785" y="104" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644670416044" />
+    <state x="-1017" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1644668790643">
+      <screen x="-1360" y="0" width="1360" height="738" />
+    </state>
+    <state x="-1017" y="59" width="672" height="678" key="search.everywhere.popup/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644668790643" />
+  </component>
+</project>
