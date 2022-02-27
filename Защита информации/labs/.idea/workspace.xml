@@ -48,12 +48,15 @@
     <property name="settings.editor.selected.configurable" value="restructured.text.topic" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GIT\8-term\Защита информации\labs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GIT\8-term\Защита информации\labs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab 2 Vigenere">
-    <configuration name="lab 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Hill cypher">
+    <configuration name="Hill cypher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\GIT\8-term\Защита информации\labs\lab 1 ceasar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hill cypher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,27 +98,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab 1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="labs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab 1.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lab 2 Vigenere" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +111,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\GIT\8-term\Защита информации\labs\lab 2 Vigenere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab 3 polygram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab 3 polygram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Hill cypher" />
+        <item itemvalue="Python.lab 3 polygram" />
+        <item itemvalue="Python.lab 2" />
         <item itemvalue="Python.lab 2 Vigenere" />
         <item itemvalue="Python.lab3" />
-        <item itemvalue="Python.lab 1" />
-        <item itemvalue="Python.lab 1.1" />
-        <item itemvalue="Python.lab 1" />
       </list>
     </recent_temporary>
   </component>
@@ -202,26 +226,26 @@
       <screen x="-1360" y="0" width="1360" height="738" />
     </state>
     <state x="-1226" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673077213" />
-    <state width="1393" height="279" key="GridCell.Tab.0.bottom" timestamp="1645351585516">
+    <state width="1081" height="206" key="GridCell.Tab.0.bottom" timestamp="1645943220045">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1393" height="279" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645351585516" />
-    <state width="1393" height="279" key="GridCell.Tab.0.center" timestamp="1645351585515">
+    <state width="1081" height="206" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
+    <state width="1081" height="206" key="GridCell.Tab.0.center" timestamp="1645943220045">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1393" height="279" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645351585515" />
-    <state width="1393" height="279" key="GridCell.Tab.0.left" timestamp="1645351585515">
+    <state width="1081" height="206" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
+    <state width="1081" height="206" key="GridCell.Tab.0.left" timestamp="1645943220045">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1393" height="279" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645351585515" />
-    <state width="1393" height="279" key="GridCell.Tab.0.right" timestamp="1645351585516">
+    <state width="1081" height="206" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
+    <state width="1081" height="206" key="GridCell.Tab.0.right" timestamp="1645943220045">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1393" height="279" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645351585516" />
+    <state width="1081" height="206" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
     <state width="1393" height="279" key="GridCell.Tab.1.bottom" timestamp="1645351585516">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
