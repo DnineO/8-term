@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="restructured.text.topic" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,8 +55,8 @@
       <recent name="D:\GIT\8-term\Защита информации\labs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Hill cypher">
-    <configuration name="Hill cypher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lab 3 polygram">
+    <configuration name="egcd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/egcd" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hill cypher.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/egcd/egcd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="qwezxc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../OED/lab3" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../OED/lab3/lab3.py" />
+      <option name="SCRIPT_NAME" value="D:\GIT\8-term\Защита информации\labs\qwezxc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Hill cypher" />
         <item itemvalue="Python.lab 3 polygram" />
+        <item itemvalue="Python.qwezxc" />
+        <item itemvalue="Python.egcd" />
         <item itemvalue="Python.lab 2" />
         <item itemvalue="Python.lab 2 Vigenere" />
-        <item itemvalue="Python.lab3" />
       </list>
     </recent_temporary>
   </component>
@@ -226,26 +226,26 @@
       <screen x="-1360" y="0" width="1360" height="738" />
     </state>
     <state x="-1226" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673077213" />
-    <state width="1081" height="206" key="GridCell.Tab.0.bottom" timestamp="1645943220045">
+    <state width="1455" height="223" key="GridCell.Tab.0.bottom" timestamp="1645961456566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1081" height="206" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
-    <state width="1081" height="206" key="GridCell.Tab.0.center" timestamp="1645943220045">
+    <state width="1455" height="223" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
+    <state width="1455" height="223" key="GridCell.Tab.0.center" timestamp="1645961456566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1081" height="206" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
-    <state width="1081" height="206" key="GridCell.Tab.0.left" timestamp="1645943220045">
+    <state width="1455" height="223" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
+    <state width="1455" height="223" key="GridCell.Tab.0.left" timestamp="1645961456566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1081" height="206" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
-    <state width="1081" height="206" key="GridCell.Tab.0.right" timestamp="1645943220045">
+    <state width="1455" height="223" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
+    <state width="1455" height="223" key="GridCell.Tab.0.right" timestamp="1645961456566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1081" height="206" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645943220045" />
+    <state width="1455" height="223" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
     <state width="1393" height="279" key="GridCell.Tab.1.bottom" timestamp="1645351585516">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -266,19 +266,19 @@
     </state>
     <state width="1340" height="197" key="GridCell.Tab.1.right/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673329423" />
     <state width="1393" height="279" key="GridCell.Tab.1.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645351585516" />
-    <state x="287" y="21" key="SettingsEditor" timestamp="1645343180136">
+    <state x="241" y="199" key="SettingsEditor" timestamp="1645953507621">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="-1157" y="15" key="SettingsEditor/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673047693" />
-    <state x="287" y="21" key="SettingsEditor/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645343180136" />
+    <state x="241" y="199" key="SettingsEditor/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645953507621" />
     <state x="-785" y="104" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1644670416044">
       <screen x="-1360" y="0" width="1360" height="738" />
     </state>
     <state x="-785" y="104" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644670416044" />
-    <state x="1013" y="271" width="605" height="449" key="refactoring.ChangeSignatureDialog" timestamp="1645351038946">
+    <state x="1013" y="271" width="605" height="449" key="refactoring.ChangeSignatureDialog" timestamp="1645956518926">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1013" y="271" width="605" height="449" key="refactoring.ChangeSignatureDialog/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645351038946" />
+    <state x="1013" y="271" width="605" height="449" key="refactoring.ChangeSignatureDialog/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645956518926" />
     <state x="-1017" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1644668790643">
       <screen x="-1360" y="0" width="1360" height="738" />
     </state>
