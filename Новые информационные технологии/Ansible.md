@@ -33,3 +33,18 @@ Ansible — это программное решение для удаленно
 
 
 
+### Ссылки:
+
+[Docker, Ansible и прочие радости DevOps_ Дмитрий Абашин презентация, доклад (thepresentation.ru)](https://thepresentation.ru/uncategorized/docker-ansible-i-prochie-radosti-devops_-dmitriy-abashin)
+
+[Применяем Ansible (slideshare.net)](https://habr.com/ru/post/267295/)
+
+[Ansible — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Ansible)[Пособие по Ansible / Хабр (habr.com)](https://habr.com/ru/post/305400/)
+
+[Пособие по Ansible / Хабр (habr.com)](https://habr.com/ru/post/305400/)
+
+[ansible-community/molecule: Molecule aids in the development and testing of Ansible roles (github.com)](https://github.com/ansible-community/molecule)
+
+[Что такое Ansible и как его использовать (tproger.ru)](https://tproger.ru/translations/ansible-how-to-use/)
+
+[Installing Ansible — Ansible Documentation](https://docs.ansible.com/ansible/devel/installation_guide/intro_installation.html#installing-ansible-on-windows)
