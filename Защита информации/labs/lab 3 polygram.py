@@ -1,8 +1,8 @@
 import numpy as np
 from egcd import egcd  # pip install egcd
 
-# alphabet = "abcdefghijklmnopqrstuvwxyz"
-alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+alphabet = "abcdefghijklmnopqrstuvwxyz"
+# alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
 
 letter_to_index = dict(zip(alphabet, range(len(alphabet))))
 index_to_letter = dict(zip(range(len(alphabet)), alphabet))
@@ -79,8 +79,8 @@ def decrypt(cipher, Kinv):
 
 def main():
     # message = 'my life is potato'
-    # message = "helpmeplease"
-    message = "азбука"
+    message = "helpmeplease"
+    # message = "азбука"
 
     # K = np.matrix([[3, 20], [2, 16]])
     # K = np.matrix([[6, 2, 10], [13, 16, 10], [20, 17, 15]])
