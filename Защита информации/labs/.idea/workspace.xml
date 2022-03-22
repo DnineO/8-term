@@ -55,7 +55,7 @@
       <recent name="D:\GIT\8-term\Защита информации\labs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab 3 polygram">
+  <component name="RunManager" selected="Python.lab 2">
     <configuration name="egcd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,10 +184,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab 2" />
         <item itemvalue="Python.lab 3 polygram" />
         <item itemvalue="Python.qwezxc" />
         <item itemvalue="Python.egcd" />
-        <item itemvalue="Python.lab 2" />
         <item itemvalue="Python.lab 2 Vigenere" />
       </list>
     </recent_temporary>
@@ -226,26 +226,26 @@
       <screen x="-1360" y="0" width="1360" height="738" />
     </state>
     <state x="-1226" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644673077213" />
-    <state width="1455" height="223" key="GridCell.Tab.0.bottom" timestamp="1645961456566">
+    <state width="1455" height="223" key="GridCell.Tab.0.bottom" timestamp="1647771312401">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1455" height="223" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
-    <state width="1455" height="223" key="GridCell.Tab.0.center" timestamp="1645961456566">
+    <state width="1455" height="223" key="GridCell.Tab.0.bottom/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1647771312401" />
+    <state width="1455" height="223" key="GridCell.Tab.0.center" timestamp="1647771312401">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1455" height="223" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
-    <state width="1455" height="223" key="GridCell.Tab.0.left" timestamp="1645961456566">
+    <state width="1455" height="223" key="GridCell.Tab.0.center/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1647771312401" />
+    <state width="1455" height="223" key="GridCell.Tab.0.left" timestamp="1647771312401">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1455" height="223" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
-    <state width="1455" height="223" key="GridCell.Tab.0.right" timestamp="1645961456566">
+    <state width="1455" height="223" key="GridCell.Tab.0.left/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1647771312401" />
+    <state width="1455" height="223" key="GridCell.Tab.0.right" timestamp="1647771312401">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1340" height="145" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@-1360.0.1360.738" timestamp="1644846015023" />
-    <state width="1455" height="223" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1645961456566" />
+    <state width="1455" height="223" key="GridCell.Tab.0.right/-1360.0.1360.738/0.0.1920.1050@0.0.1920.1050" timestamp="1647771312401" />
     <state width="1393" height="279" key="GridCell.Tab.1.bottom" timestamp="1645351585516">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
