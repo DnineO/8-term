@@ -115,6 +115,37 @@ Ansible — это программное решение для удаленно
 
 
 
+## Модули
+
+Категории модулей и выполняемые ими задачи:
+
+- Cloud: поддержка [Amazon EC2/ECS/S3](https://ru.wikipedia.org/wiki/Amazon_Web_Services), [Azure](https://ru.wikipedia.org/wiki/Microsoft_Azure), [Cloudstack](https://ru.wikipedia.org/w/index.php?title=Cloudstack&action=edit&redlink=1), [Digital Ocean](https://ru.wikipedia.org/w/index.php?title=Digital_Ocean&action=edit&redlink=1), [Docker](https://ru.wikipedia.org/wiki/Docker), [LXC](https://ru.wikipedia.org/wiki/LXC), [OpenStack](https://ru.wikipedia.org/wiki/OpenStack), [Rackspace](https://ru.wikipedia.org/wiki/Rackspace), [VMware](https://ru.wikipedia.org/wiki/VMware) и др.
+- Clustering: поддержка [Consul](https://ru.wikipedia.org/w/index.php?title=Consul&action=edit&redlink=1), [ZooKeeper](https://ru.wikipedia.org/w/index.php?title=ZooKeeper&action=edit&redlink=1) ([англ.](https://en.wikipedia.org/wiki/Apache_ZooKeeper)), [Kubernetes](https://ru.wikipedia.org/wiki/Kubernetes)
+- Command: выполняют консольные команды и скрипты
+- Database: поддержка баз данных [MySQL](https://ru.wikipedia.org/wiki/MySQL), [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL), [Vertica](https://ru.wikipedia.org/w/index.php?title=Vertica&action=edit&redlink=1), [MongoDB](https://ru.wikipedia.org/wiki/MongoDB), [Redis](https://ru.wikipedia.org/wiki/Redis), [Riak](https://ru.wikipedia.org/wiki/Riak)
+- File: работа с файлами — копирование, синхронизация, модификация, проверка, архивирование и т. д.
+- Inventory: работа с именами хостов или их [ip](https://ru.wikipedia.org/wiki/TCP/IP)-адресами.
+- Messaging: поддержка [RabbitMQ](https://ru.wikipedia.org/wiki/RabbitMQ)
+- Monitoring: поддержка систем мониторинга [DataDog](https://ru.wikipedia.org/w/index.php?title=DataDog&action=edit&redlink=1), [Nagios](https://ru.wikipedia.org/wiki/Nagios), [Zabbix](https://ru.wikipedia.org/wiki/Zabbix) и пр.
+- Network: работа с сетевым оборудованием и ПО [F5 BIG-IP](https://ru.wikipedia.org/wiki/F5), [Cisco IOS/NXOS](https://ru.wikipedia.org/wiki/Cisco_IOS), [Juniper JunOS](https://ru.wikipedia.org/wiki/Juniper_Networks), [OpenSwitch](https://ru.wikipedia.org/w/index.php?title=OpenSwitch&action=edit&redlink=1), [Cumulus Linux](https://ru.wikipedia.org/wiki/Cumulus_Linux), [Mikrotik RouterOS](https://ru.wikipedia.org/wiki/MikroTik)[[6\]](https://ru.wikipedia.org/wiki/Ansible#cite_note-6)
+- Notification: отсылаются сообщения в [Campfire](https://ru.wikipedia.org/w/index.php?title=Campfire&action=edit&redlink=1), [HipChat](https://ru.wikipedia.org/w/index.php?title=HipChat&action=edit&redlink=1), [Jabber](https://ru.wikipedia.org/wiki/Jabber), [Pushbullet](https://ru.wikipedia.org/w/index.php?title=Pushbullet&action=edit&redlink=1), [Slack](https://ru.wikipedia.org/wiki/Slack), через email/sms
+- Packaging: работа с менеджерами пакетов [apt](https://ru.wikipedia.org/wiki/Apt), [FreeBSD Ports](https://ru.wikipedia.org/wiki/FreeBSD_Ports), [Gentoo](https://ru.wikipedia.org/wiki/Gentoo), [homebrew](https://ru.wikipedia.org/w/index.php?title=Homebrew_(система_управления_пакетами)&action=edit&redlink=1), [pacman](https://ru.wikipedia.org/wiki/Pacman_(система_управления_пакетами)), [opkg](https://ru.wikipedia.org/w/index.php?title=Opkg&action=edit&redlink=1), [Red Hat software channels](https://ru.wikipedia.org/wiki/Red_Hat_Enterprise_Linux), [yum](https://ru.wikipedia.org/wiki/Yum), [xbps](https://ru.wikipedia.org/w/index.php?title=Xbps&action=edit&redlink=1), [zypper](https://ru.wikipedia.org/wiki/Zypper)
+- Source Control: работа с системами контроля версий [git](https://ru.wikipedia.org/wiki/Git), [mercurial](https://ru.wikipedia.org/wiki/Mercurial), [subversion](https://ru.wikipedia.org/wiki/Subversion)
+- System: работа с компонентами Linux/Unix систем — [cron](https://ru.wikipedia.org/wiki/Cron), [iptables](https://ru.wikipedia.org/wiki/Iptables), [LVM](https://ru.wikipedia.org/wiki/LVM), [SELinux](https://ru.wikipedia.org/wiki/SELinux), [sshd](https://ru.wikipedia.org/wiki/Sshd), [zfs](https://ru.wikipedia.org/wiki/ZFS)
+- Utilities: реализуют внутреннюю логику плейбуков
+- Web Infrastructure: работа с [Apache](https://ru.wikipedia.org/wiki/Apache_HTTP_Server), [Django](https://ru.wikipedia.org/wiki/Django), [JBoss](https://ru.wikipedia.org/wiki/JBoss), [JIRA](https://ru.wikipedia.org/wiki/JIRA)
+- Windows: работа с компонентами Windows, в том числе [IIS](https://ru.wikipedia.org/wiki/IIS), [Windows Firewall](https://ru.wikipedia.org/wiki/Windows_Firewall), [реестром](https://ru.wikipedia.org/wiki/Windows_registry)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Что такое Ansible?
