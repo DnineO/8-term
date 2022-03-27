@@ -9,10 +9,9 @@ key = 'АИ_'
 # Сообщение
 origstr = 'ТУТ_АННА_И_НАТА'
 # file
-f = open('lab2result.txt', 'w')
+f = open('lab2permutations.txt', 'w')
+numberSwap = 1
 
-
-# def file():
 
 def swap(a, i, j):
     s = a[i]
@@ -50,59 +49,32 @@ def printPere(a, n):
     # f.write('\n')
     return pere
 
-
-def num2str(i):
-    arr = ('А', 'И', 'Н', 'Т', 'У', '_')
-    i = i % len(arr)
-    # print(arr[i])
-    return arr[i]
+def encrypt(num,perm):
+    if (num <0 or num > perm-1):
+            print("error")
 
 
-def str2num(ch):
-    ch = ch.upper()
-    arr = {'А': 0, 'И': 1, 'Н': 2, 'Т': 3, 'У': 4, '_': 5}
-    # print(arr[ch])
-    return arr[ch]
+def decrypt():
+    print("decrypt")
+
+def print2file(_str):
+    number = 1
+    while nxtSet(_str, n):
+        f.write(str(str(number) + ' '))
+        if number == 565:
+            print()
+        # print(number, printPere(alphabet, n))
+        printPere(_str, n)
+        f.write(' \n')
+        number += 1
+    return number #возвращает число перестановок
 
 
-# C = (S + K) mod N, где S - номер символа в строке, K - номер символа в столбце
-def encode(str, keyl):
-    result = ''
-    for (i, j) in enumerate(str):
-        i = i % len(keyl)
-        result += num2str(str2num(j) + str2num(keyl[i]))
-        # print(result)
-    return result
+numberSwap = print2file(alphabet)
 
-
-# C = (S + K + N) mod N, расшифровка
-def decode(str, keyl):
-    result = ''
-    for (i, j) in enumerate(str):
-        i = i % len(keyl)
-        result += num2str(str2num(j) - str2num(keyl[i]))
-        # print(result)
-    return result
-
-
-# printPere(alphabet,n)
-number = 1
-while nxtSet(alphabet, n):
-    f.write(str(str(number) + ' '))
-    if number == 565:
-        print()
-    # print(number, printPere(alphabet, n))
-    printPere(alphabet, n)
-    f.write(' \n')
-    number += 1
 
 # АИНУТ_
-
 f.close()
-
-# print(encode(origstr, key))
-# enstr = encode(origstr, key)
-# print(decode(enstr, key))
 
 # АУА_ТН_АНИННТТТ
 # ТУТ_АННА_И_НАТА
