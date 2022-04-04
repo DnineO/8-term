@@ -98,8 +98,8 @@ def getStrFromBin(string):
     result = ""
     num = 0
     while num < len(string):
-        result += chr(int(string[num:num + 8], 2))
-        num += 8
+        result += chr(int(string[num:num + 16], 2))
+        num += 16
     return result
 
 
